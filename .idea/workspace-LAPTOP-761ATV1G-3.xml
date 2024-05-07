@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b353bbec-69a4-472c-bea3-1597e9f819cc" name="Changes" comment="comment out some unintended interactions left over from asteroids">
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment/game1/Asteroid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment/game1/Asteroid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment/game1/Bullet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment/game1/Bullet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment/game1/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment/game1/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment/game1/GameObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment/game1/GameObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment/game1/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment/game1/Ship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game1/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game1/Game.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="TW" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KaIEvB0YW6cWdb0DYlhxMEa9Un" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="M:\CE218\Asteroids\src\game2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Game">
+    <configuration name="BasicGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game1.BasicGame" />
+      <module name="Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game1.Game" />
+      <module name="Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="game2.BasicGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game2.BasicGame" />
+      <module name="Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestVector2D" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utilities" />
+      <option name="MAIN_CLASS_NAME" value="utilities.TestVector2D" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestVector2D.testAngle2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utilities" />
+      <option name="MAIN_CLASS_NAME" value="utilities.TestVector2D" />
+      <option name="METHOD_NAME" value="testAngle2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+        <item itemvalue="Application.game2.BasicGame" />
+        <item itemvalue="JUnit.TestVector2D" />
+        <item itemvalue="Application.BasicGame" />
+        <item itemvalue="JUnit.TestVector2D.testAngle2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b353bbec-69a4-472c-bea3-1597e9f819cc" name="Changes" comment="" />
+      <created>1674206160037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674206160037</updated>
+      <workItem from="1674206161398" duration="1477000" />
+      <workItem from="1674731084832" duration="39000" />
+      <workItem from="1674809664370" duration="5693000" />
+      <workItem from="1675336118447" duration="8000" />
+      <workItem from="1675415109804" duration="2250000" />
+      <workItem from="1675940859886" duration="8000" />
+      <workItem from="1676624834074" duration="4027000" />
+      <workItem from="1676918005420" duration="3623000" />
+      <workItem from="1676981796613" duration="8645000" />
+      <workItem from="1677070065617" duration="79000" />
+      <workItem from="1677092910585" duration="947000" />
+      <workItem from="1677168581348" duration="692000" />
+      <workItem from="1677229283919" duration="560000" />
+      <workItem from="1677229910692" duration="2133000" />
+      <workItem from="1677496877013" duration="2715000" />
+      <workItem from="1677590552291" duration="35000" />
+      <workItem from="1677848358747" duration="40000" />
+      <workItem from="1678716164062" duration="62000" />
+      <workItem from="1678716273038" duration="4617000" />
+      <workItem from="1678796655247" duration="7330000" />
+      <workItem from="1678914842871" duration="143000" />
+      <workItem from="1679016122227" duration="10000" />
+      <workItem from="1679511918684" duration="323000" />
+    </task>
+    <task id="LOCAL-00001" summary="basic game:&#10;ship + asteroids + 3 lives + safe respawn + scoring">
+      <created>1678803257058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678803257058</updated>
+    </task>
+    <task id="LOCAL-00002" summary="comment out some unintended interactions left over from asteroids">
+      <created>1678804368211</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678804368211</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start" />
+    <MESSAGE value="basic game:&#10;ship + asteroids + 3 lives + safe respawn + scoring" />
+    <MESSAGE value="comment out some unintended interactions left over from asteroids" />
+    <option name="LAST_COMMIT_MESSAGE" value="comment out some unintended interactions left over from asteroids" />
+  </component>
+</project>
